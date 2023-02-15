@@ -1,0 +1,2 @@
+# Data: 15-2-2023 Autor: Luis Enrique Ruiz
+1- Programa ascii (v0.1) 2- Per compilar el programa, executa: gcc ascii.c -o ascii
