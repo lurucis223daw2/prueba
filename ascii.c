@@ -11,6 +11,7 @@ int main() {
 	n='Z'-'A';
 	for (i=n;i>=0;i--) {
 		c='A'+i;
+//C:\Users\Luis\Documents\DAW2\M08\UF4\Examen\prueba
 		printf("%c    %x   %d\n",c,c,c);
 	}
 	return(0);
